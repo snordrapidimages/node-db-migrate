@@ -38,6 +38,7 @@
     "pg-native": "^1.8.0",
     "pkginfo": "~0.3.0",
     "resolve": "^1.1.6",
+    "rethinkdb": "^1.16.2",
     "semver": "~4.3.3",
     "sqlite3": "~3.0.4",
     "tunnel-ssh": "^1.0.0"
